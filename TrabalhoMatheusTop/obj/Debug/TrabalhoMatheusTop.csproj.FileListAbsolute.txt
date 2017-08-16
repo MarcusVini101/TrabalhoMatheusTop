@@ -7,3 +7,6 @@ c:\users\marcus.farias\documents\visual studio 2015\Projects\TrabalhoMatheusTop\
 c:\users\marcus.farias\documents\visual studio 2015\Projects\TrabalhoMatheusTop\TrabalhoMatheusTop\obj\Debug\TrabalhoMatheusTop.csproj.GenerateResource.Cache
 c:\users\marcus.farias\documents\visual studio 2015\Projects\TrabalhoMatheusTop\TrabalhoMatheusTop\obj\Debug\TrabalhoMatheusTop.exe
 c:\users\marcus.farias\documents\visual studio 2015\Projects\TrabalhoMatheusTop\TrabalhoMatheusTop\obj\Debug\TrabalhoMatheusTop.pdb
+C:\Users\Marcus.Farias\Desktop\GitHub\TrabalhoMatheusTop\TrabalhoMatheusTop\bin\Debug\TrabalhoMatheusTop.exe.config
+C:\Users\Marcus.Farias\Desktop\GitHub\TrabalhoMatheusTop\TrabalhoMatheusTop\obj\Debug\TrabalhoMatheusTop.exe
+C:\Users\Marcus.Farias\Desktop\GitHub\TrabalhoMatheusTop\TrabalhoMatheusTop\obj\Debug\TrabalhoMatheusTop.pdb
